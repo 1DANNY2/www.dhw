@@ -2,7 +2,7 @@ const products=[
 {id:1,name:"DHW Classic Red Hoodie",price:650,sizes:["S","M","L","XL","XXL"],img:"assets/hoodie_1_red_K450.png"},
 {id:2,name:"DHW Premium Street Hoodie",price:750,sizes:["M","L","XL"],img:"assets/hoodie_3_black_K450.png"},
 {id:3,name:"DHW Everyday Hoodie",price:600,sizes:["S","M","L","XL"],img:"assets/hoodie_4_green_K450.png"},
-{id:4,name:"DHW Signature Hoodie",price:850,sizes:["L","XL","XXL"],img:"assets/dhw-hoodie.png"}
+{id:4,name:"DHW Signature Hoodie",price:850,sizes:["L","XL","XXL"],img:"assets/hoodie_5_white_K450.png"},
 ];
 let cart=JSON.parse(localStorage.getItem("dhwCart")||"[]");
 const grid=document.getElementById("productGrid"), search=document.getElementById("search"), sizeFilter=document.getElementById("sizeFilter");
