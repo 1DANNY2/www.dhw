@@ -1,5 +1,5 @@
 const products=[
-{id:1,name:"DHW Classic Red Hoodie",price:650,sizes:["S","M","L","XL","XXL"],img:"assets/dhw-hoodie.png"},
+{id:1,name:"DHW Classic Red Hoodie",price:650,sizes:["S","M","L","XL","XXL"],img:"assets/file_00000000420c82469412c434a25f5d21.png"},
 {id:2,name:"DHW Premium Street Hoodie",price:750,sizes:["M","L","XL"],img:"assets/dhw-hoodie.png"},
 {id:3,name:"DHW Everyday Hoodie",price:600,sizes:["S","M","L","XL"],img:"assets/dhw-hoodie.png"},
 {id:4,name:"DHW Signature Hoodie",price:850,sizes:["L","XL","XXL"],img:"assets/dhw-hoodie.png"}
